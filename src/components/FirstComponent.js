@@ -1,6 +1,6 @@
 import { f1 } from '../module1';
 
 export const FirstComponent = () => {
-	console.log();
-	return <div>РЕАКТ</div>;
+	console.log('FIRST COMPONENT');
+	return <div className='App'>РЕАКТ</div>;
 };
