@@ -1,0 +1,1 @@
+(()=>{var r={839:r=>{r.exports=()=>"return f1"}},o={};const t=function t(e){var n=o[e];if(void 0!==n)return n.exports;var s=o[e]={exports:{}};return r[e](s,s.exports,t),s.exports}(839);console.log(t())})();
