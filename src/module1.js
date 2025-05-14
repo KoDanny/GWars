@@ -1,1 +1,3 @@
-export const foo1 = () => 'Return Foo1';
+const foo1 = () => 'Return Foo1';
+
+module.exports = foo1;
