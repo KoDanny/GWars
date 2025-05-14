@@ -1,3 +1,3 @@
-const { f1 } = require('./src/module1');
+const { f2 } = require('./src/module2');
 
-f1();
+f2();
