@@ -10,7 +10,6 @@
 // @grant        none
 // ==/UserScript==
 
-import { foo2 } from './src/module2.js';
+// import { foo2 } from './src/module2.js';
 
-foo2();
-export const script = { foo2 };
+console.log(1);
