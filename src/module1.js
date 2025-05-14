@@ -1,3 +1,1 @@
-const f1 = () => 'return f1';
-
-module.exports = f1;
+export const f1 = () => 'return f1';
