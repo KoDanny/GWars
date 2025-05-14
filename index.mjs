@@ -1,1 +1,3 @@
-console.log(1);
+import { f1 } from './src/module1.mjs';
+
+console.log(f1());
