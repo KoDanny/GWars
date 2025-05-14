@@ -10,6 +10,4 @@
 // @grant        none
 // ==/UserScript==
 
-// import { foo2 } from './src/module2.js';
-
 console.log(1);
