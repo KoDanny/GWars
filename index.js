@@ -1,5 +1,3 @@
-const foo2 = require('./src/module2');
+import { foo2 } from './src/module2.js';
 
-foo2();
-
-module.exports = foo2;
+export { foo2 };

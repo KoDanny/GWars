@@ -1,5 +1,5 @@
-const foo1 = require('./module1');
+import { foo1 } from './module1.js';
 
-module.exports = () => {
+export const foo2 = () => {
 	console.log(foo1());
 };
